@@ -7,47 +7,33 @@ Building scalable applications, clean UI systems, and AI-powered software soluti
 
 ---
 
-<table>
-<tr>
-<td width="220px" align="center">
-
-<img src="https://avatars.githubusercontent.com/u/150531536?v=4" width="180" style="border-radius:50%" />
-
-<br><br>
-
-### 🔗 Connect
-
-<a href="https://www.linkedin.com/in/ahmad-jilani-18b65b257/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://github.com/AhmadJilani" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
-</a>
-
-<a href="mailto:jlaniahmad11@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-</td>
-
-<td>
-
 # 👨‍💻 About Me
 
-I am a Professional Full Stack Developer and Project Coordinator at Kanz ul Madaris International. My focus is on high-performance development, bridging the gap between complex backend logic and pixel-perfect interactive frontends.
+I am a Professional **Full Stack Developer** and **Project Coordinator** at **Kanz ul Madaris International**. With a BSCS from The University of Faisalabad, I focus on building high-performance web applications, interactive AI frontends, and secure financial systems.
 
 ### What I Specialize In
 
-• **Frontend Excellence:** React, TypeScript, Vue.js, and Material UI.  
-• **Interactive UI:** Advanced animations using AOS (Animate On Scroll) and Tailwind.  
-• **AI Platforms:** Architecting frontend systems for AI learning platforms (Teacheasy.ai).  
-• **Full Stack Mastery:** Building secure systems using MERN, PHP, and .NET Core.  
-• **Technical Leadership:** Coordinating IT board projects and managing full dev lifecycles.
+* **Frontend Excellence:** React.js, TypeScript, Vue.js, and Nuxt.js.
+* **Interactive UI:** Pixel-perfect designs using Tailwind CSS, Bootstrap 5, and AOS animations.
+* **AI Platforms:** Engineering complex tool interfaces for AI learning platforms like Teacheasy.ai.
+* **Full Stack Mastery:** Developing robust backend systems with PHP, Node.js, and .NET Core.
+* **Database Design:** Designing relational and layered architectures in MySQL and MongoDB.
 
-</td>
-</tr>
-</table>
+---
+
+### 🔗 Connect
+
+<p align="left">
+<a href="https://www.linkedin.com/in/ahmad-jilani-18b65b257/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="https://github.com/AhmadJilani" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="mailto:jlaniahmad11@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email">
+</a>
+</p>
 
 ---
 
@@ -64,14 +50,22 @@ I am a Professional Full Stack Developer and Project Coordinator at Kanz ul Mada
 
 # 📌 Featured Projects
 
-### 🤖 Teacheasy.ai - AI Learning Platform
-Engineered the complete frontend for an AI educational platform. Developed 26 custom tool interfaces with dynamic response systems and interactive data filtering.
+### 🤖 [Teacheasy.ai - AI Learning Platform](https://teacheasy.ai)
+Engineered the complete frontend architecture for a dynamic AI-powered platform. Developed 26 custom tool interfaces with dynamic response tables and interactive data filtering/preview functionalities.
 
-### 🏦 Real-Time Bank Token System
-A high-concurrency ticketing system built with PHP/MySQL. Features real-time counter calling and a comprehensive live analytics dashboard for admins.
+### 🏦 [Real-Time Bank Token System](https://github.com/AhmadJilani/Bank-Tickiting-System)
+Built a real-time customer flow management system using PHP and MySQL. Features a live counter-calling display and a comprehensive admin analytics panel for tracking service metrics.
 
-### 📊 Multi-User CRM Software
-Developed a scalable CRM for multi-city management in PHP. Implemented secure role-based access control and real-time logistics tracking.
+### 📊 [Multi-User CRM Software](https://github.com/AhmadJilani/CRMS)
+Developed a scalable CRM solution in PHP with role-based authentication. Features an intuitive dashboard for client and logistics tracking.
+
+---
+
+# 💼 Professional Experience
+
+* **Full-stack Developer @ Virtual Solutions** (Oct 2024 - Present)
+* **Frontend Developer @ Bytibits** (Sep 2023 - May 2024)
+* **Full-stack Developer @ QamSoft Technologies** (Jul 2023 - Oct 2024)
 
 ---
 
@@ -80,16 +74,6 @@ Developed a scalable CRM for multi-city management in PHP. Implemented secure ro
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadJilani&theme=tokyonight&hide_border=true" width="100%"/>
 </p>
-
----
-
-# 🎯 Focus Areas
-
-• Technical Project Coordination  
-• AI Solution Architecture  
-• Enterprise SaaS Development  
-• UI Performance & AOS Animation  
-• Scalable Database Design  
 
 ---
 
